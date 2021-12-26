@@ -1,0 +1,49 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Oswald', cursive;
+}
+.navbar-nav{
+    font-family: 'Oswald', cursive;
+}
+.link a{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    color: #fff;
+}
+
+.link a:hover .bi-facebook{
+    color: #3b5998;
+}
+
+.link a:hover .bi-github{
+    color: #ccc;
+}
+
+.link a:hover .bi-instagram{
+    color: #C13584;
+}
+
+.link a:hover .bi-twitter{
+    color: #1DA1F2;
+}
+
+.appicon-text h4{
+    border-bottom:1px solid #bbb;
+}
+
+.appicon-icon{
+    padding:50px;
+    height: 200px;
+}
+
+.appicon-container{
+    padding:5px;
+}
+.container{
+    margin-top:65px;
+}
+
